@@ -802,6 +802,9 @@ header .btn:last-child {
   height: 150%;
   top: -20%;
 }
+.background-image{
+  height: fit-content !important;
+}
 .hero-slider {
   padding: 0px;
   position: relative;
