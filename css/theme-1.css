@@ -169,6 +169,7 @@ p.lead {
   font-size: 16px;
   line-height: 30px;
   font-weight: normal;
+  text-align: justify;
 }
 p:last-child {
   margin-bottom: 0px;
@@ -747,7 +748,7 @@ nav hr {
   height: 100%;
   top: 0px;
   content: '';
-  opacity: 0.9;
+  opacity: 0.8;
   z-index: 2;
   background-color: #01a2a6;
   left: 0;
@@ -787,6 +788,7 @@ header .btn:last-child {
 }
 .page-header p.lead {
   font-size: 18px;
+  
 }
 .page-header:before {
   position: absolute;
@@ -2936,6 +2938,7 @@ footer.short-2 .contact-action:hover {
   .header-icons {
     padding-top: 64px;
     padding-bottom: 64px;
+    text-align: center;
   }
   header.title {
     padding: 0px;
