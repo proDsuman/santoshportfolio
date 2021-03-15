@@ -170,6 +170,9 @@ p.lead {
   line-height: 30px;
   font-weight: normal;
 }
+p.lead-about-me{
+  text-align: justify;
+}
 p:last-child {
   margin-bottom: 0px;
 }
